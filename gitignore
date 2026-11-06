@@ -1,0 +1,23 @@
+# Les rapports et captures sont régénérés à chaque exécution, il est inutile de les envoyer sur GitHub.
+# Résultats générés par Robot Framework
+results/
+output.xml
+log.html
+report.html
+selenium-screenshot-*.png
+geckodriver-*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets et configuration locale
+.env
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

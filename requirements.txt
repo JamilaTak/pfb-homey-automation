@@ -1,0 +1,4 @@
+robotframework==7.5
+robotframework-selenium2library==3.0.0
+robotframework-seleniumlibrary==6.9.0
+selenium==4.51.0
