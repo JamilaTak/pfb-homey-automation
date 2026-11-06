@@ -3,12 +3,12 @@ Projet de Fin de Bloc B - Homey - Automatisation de tests
 Tests automatisés avec Robot Framework et SeleniumLibrary.
 URL du site à tester : http://livraison3.testacademy.fr/
 
-## Prérequis
+## Prérequis 
 - Python 3.10 ou plus récent (ici 3.15.0)
 - Google Chrome (ou Firefox) installé
 - Git
 
-## Installation
+## Installation 
 1. Cloner le dépôt :
    ```
    git clone https://github.com/JamilaTak/pfb-homey-automation
