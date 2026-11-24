@@ -132,7 +132,7 @@ Les données créées par les tests (demandes de réservation) sont nettoyées �
     - `page_voyages_voyageur.robot`, `page_paiement_voyageur.robot`
     - `page_reservations_hote.robot`, `page_messages_hote.robot`, `page_profil_hote.robot`
 - `results/` : rapports générés (non versionnés, ignorés par Git grâce au fichier `.gitignore`)
-- `Jenkinsfile/` : pipeline CI/CD Jenkins
+- `Jenkinsfile` : pipeline CI/CD Jenkins (clone du dépôt, installation des dépendances, exécution des tests, archivage des rapports)
 
 
 Les sélecteurs sont uniquement dans `resources/pages/`, les données uniquement dans `resources/variables.robot`.
