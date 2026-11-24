@@ -1,6 +1,6 @@
 # Les rapports et captures sont régénérés à chaque exécution, il est inutile de les envoyer sur GitHub.
 # Résultats générés par Robot Framework
-results/
+results/*
 output.xml
 log.html
 report.html
